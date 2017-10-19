@@ -1,0 +1,15 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_id">44278869427</string>
+    <string name="achievement_runner">CgkIs9vn-aQBEAIQAg</string>
+    <string name="achievement_skilled_runner">CgkIs9vn-aQBEAIQCA</string>
+    <string name="achievement_champion_runner">CgkIs9vn-aQBEAIQDQ</string>
+    <string name="achievement_amateur_hunter">CgkIs9vn-aQBEAIQCw</string>
+    <string name="achievement_bomb_killer">CgkIs9vn-aQBEAIQBA</string>
+    <string name="achievement_hunter">CgkIs9vn-aQBEAIQBw</string>
+    <string name="achievement_stock_refill">CgkIs9vn-aQBEAIQBQ</string>
+    <string name="achievement_all_about_power">CgkIs9vn-aQBEAIQDA</string>
+    <string name="achievement_master">CgkIs9vn-aQBEAIQCQ</string>
+    <string name="leaderboard_high_scores">CgkIs9vn-aQBEAIQAQ</string>
+
+</resources>

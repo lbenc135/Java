@@ -1,0 +1,5 @@
+- death animation score
+
+levels, coins
+upgrades to buy (?)
+pause music
